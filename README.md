@@ -1,4 +1,3 @@
-
 # Home Energy Footprint Optimizer
 
 **Track:** Agents for Good – Sustainability
@@ -51,7 +50,7 @@ This demonstrates how AI agents can move beyond chat and become real-world susta
 4. **Report Agent** generates a friendly, human-readable summary with a ranked list of actions and estimated savings.
 5. Optionally, a **Judge/Evaluation Agent** scores the quality of the recommendations.
 
-See `diagram.png` (or `flow_adk_web.png` style) for the architecture.
+See `energy_architecture.png` for the architecture diagram.
 
 ---
 
